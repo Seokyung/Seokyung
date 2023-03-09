@@ -32,7 +32,7 @@
   
   <p>Github Status</p>
   <hr/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Seokyung&theme=dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seokyung&theme=dark&show_icons=true">&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&theme=dark&layout=compact">
   
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=200" />
