@@ -3,7 +3,7 @@
   
   <div>
     <div align="right" width="100">
-      <h2>Tech Stacks</h2>
+      <p>Tech Stacks</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
     </div>
     <div align="left" width="100">
-      <h2>Tools</h2>
+      <p>Tools</p>
       <div>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
