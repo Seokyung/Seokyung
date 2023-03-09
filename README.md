@@ -4,7 +4,7 @@
   <div>
     <div align="left">
       <p>Tech Stacks</p>
-      <hr width="100px" />
+      <hr width="50%" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
