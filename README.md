@@ -3,9 +3,9 @@
   
   <div>
     <div align="right" height="1000px">
-      <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=xuejd17">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&theme=dark&layout=compact">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Seokyung&theme=dark&show_icons=true">
+      <img src="http://mazassumnida.wtf/api/generate_badge?boj=xuejd17">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&theme=dark&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api?username=Seokyung&theme=dark&show_icons=true">
     </div>
     <div>
       <h2>Tech Stacks</h2>
