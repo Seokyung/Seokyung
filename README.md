@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=timeGradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Developer👩🏻‍💻&descSize=42&descAlign=63&descAlignY=55" />
   
   <div>
-    <div align="left" width="10">
+    <div align="left">
       <p>Tech Stacks</p>
-      <hr/>
+      <hr width="10px" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
