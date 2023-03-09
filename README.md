@@ -6,7 +6,7 @@
   }
 </style>
 
-<div>
+<div align="center">
   <table>
     <tr>
       <td>
