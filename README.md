@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=timeGradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Developer👩🏻‍💻&descSize=42&descAlign=63&descAlignY=55" />
   
-  <div width="100%">
+  <div style="display: flex; flex-direction: row;">
     <div width="49%">
       <h2 align="center">Tech Stacks</h2>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
