@@ -28,9 +28,6 @@
       <a href="mailto:xuejd17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
       <a href="mailto:3skjee@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=flat&logo=Naver&logoColor=white"></a>
     </div>
-  </div>
-  <div width="100%">
-    
     <div width="50%" style="display: flex; flex-direction: row;">
       <h2 align="center">Github Status</h2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&theme=dark&layout=compact">
