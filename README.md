@@ -38,8 +38,8 @@
       </td>
       <td style="display: flex; flex-direction: row;">
         <h2>Github Status</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&layout=compact">
-        <img src="https://github-readme-stats.vercel.app/api?username=Seokyung&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&theme=dark&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api?username=Seokyung&theme=dark&show_icons=true">
       </td>
     </tr>
   </table>
