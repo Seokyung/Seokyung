@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=150" />
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=150&reversal=true" />
 
 <!--
 **Seokyung/Seokyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
