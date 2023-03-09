@@ -1,13 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=timeGradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Developer👩🏻‍💻&descSize=42&descAlign=63&descAlignY=55" />
 
-<style>
-  table {
-    border: none;
-  }
-</style>
-
-<div align="center">
-  <table>
+<div align=center>
+  <table border=none>
     <tr>
       <td>
         <h2>Tech Stacks</h2>
