@@ -32,10 +32,8 @@
   
   <p>Github Status</p>
   <hr/>
-  <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&theme=dark&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=Seokyung&theme=dark&show_icons=true">
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Seokyung&theme=dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&theme=dark&layout=compact">
   
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=200" />
 </div>
