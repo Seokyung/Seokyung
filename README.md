@@ -3,7 +3,9 @@
 <table>
   <tr>
     <td valign="top">Technology Stacks</td>
-    <td valign="top">hi there</td>
+  </tr>
+  <tr>
+    <td valign="top">Technology Stacks</td>
   </tr>
 </table>
 
