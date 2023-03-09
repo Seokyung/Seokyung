@@ -1,14 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=timeGradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Engineer👩🏻‍💻&descSize=42&descAlign=64&descAlignY=55" />
 
-<table>
-  <tr>
-    <td valign="top">Technology Stacks</td>
-    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"></td>
-  </tr>
-  <tr>
-    <td valign="top">Technology Stacks</td>
-  </tr>
-</table>
+<div>
+  <h2>Skills</h2>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+ </div>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=200" />
 
