@@ -1,12 +1,12 @@
-<div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=timeGradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Developer👩🏻‍💻&descSize=42&descAlign=63&descAlignY=55" />
   
   <div style="display: flex; flex-direction: row;">
     <div style="width: 50%;">
-      <h2>left</h2>
+      <p>left</p>
     </div>
     <div style="width: 50%;">
-      <h2>right</h2>
+      <p>right</p>
     </div>
   </div>
   
