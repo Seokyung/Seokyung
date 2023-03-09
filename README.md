@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Engineer👩🏻‍💻&descSize=42&descAlign=64&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Engineer👩🏻‍💻&descSize=42&descAlign=64&descAlignY=55" />
 
 ### Hi there 👋
+
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150" />
 
 <!--
 **Seokyung/Seokyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
