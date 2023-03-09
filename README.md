@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seokyung&animation=fadeIn&fontAlign=70&&fontAlignY=30&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seokyung&animation=fadeIn&fontAlign=70&&fontAlignY=40&fontSize=80" />
 
 ### Hi there 👋
 
