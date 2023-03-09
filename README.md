@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">
   </div>
-  <br/>
+  <br/><br/>
   
   <div>
     <h3>🙋🏻‍♀️ Blog & Contacts 🙋🏻‍♀️</h3>
@@ -25,14 +25,14 @@
     <a href="mailto:xuejd17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>&nbsp;&nbsp;
     <a href="mailto:3skjee@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=flat&logo=Naver&logoColor=white"></a>
   </div>
-  <br/>
+  <br/><br/>
   
   <div>
     <h3>🌿 Baekjoon 🌿</h3>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=xuejd17">&nbsp;&nbsp;
     <img src="http://mazandi.herokuapp.com/api?handle=xuejd17&theme=dark">
   </div>
-  <br/>
+  <br/><br/>
   
   <div>
     <h3>💻 Github Status 🐈‍⬛</h3>
