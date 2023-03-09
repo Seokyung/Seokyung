@@ -27,7 +27,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xuejd17)](https://solved.ac/xuejd17)
   
   <h2>Github Status</h2>
-  <div style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&layout=compact"><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=Seokyung&show_icons=true">
   </div>
