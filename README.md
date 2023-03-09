@@ -1,6 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=timeGradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Engineer👩🏻‍💻&descSize=42&descAlign=64&descAlignY=55" />
 
-### Hi there 👋
+<table>
+  <tr>
+    <td valign="top">Technology Stacks</td>
+    <td valign="top">hi there</td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=200" />
 
