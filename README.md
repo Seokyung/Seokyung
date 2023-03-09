@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=30&desc=I'm%20Seokyung,%20FE%20Engineer👩🏻‍💻&descSize=35&descAlign=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=35&desc=I'm%20Seokyung,%20FE%20Engineer👩🏻‍💻&descSize=35&descAlign=65&descAlignY=45" />
 
 ### Hi there 👋
 
