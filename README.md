@@ -3,7 +3,8 @@
   
   <div>
     <div align="left">
-      <h2>Tech Stacks</h2>
+      <p>Tech Stacks</p>
+      <hr/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
@@ -30,8 +31,8 @@
       <a href="mailto:xuejd17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
       <a href="mailto:3skjee@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=flat&logo=Naver&logoColor=white"></a>
     </div>
-    <div width="50%" style="display: flex; flex-direction: row;">
-      <h2 align="center">Github Status</h2>
+    <div>
+      <h2>Github Status</h2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&theme=dark&layout=compact">
       <img src="https://github-readme-stats.vercel.app/api?username=Seokyung&theme=dark&show_icons=true">
     </div>
