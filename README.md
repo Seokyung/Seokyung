@@ -31,9 +31,12 @@
   </div>
   
   <div>
-      <h2>Baekjoon</h2>
+    <h2>Baekjoon</h2>
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=xuejd17">
+    <img src="https://solved.ac/xuejd17">
     
     [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xuejd17)](https://solved.ac/xuejd17)
+    
   </div>
   
   <div style="display: flex; flex-direction: row;">
