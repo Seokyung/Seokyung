@@ -8,7 +8,8 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-    <img align="right" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+    <img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=xuejd17">
   </div>
   <div>
     <h2>Tools</h2>
