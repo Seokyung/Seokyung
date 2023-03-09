@@ -1,9 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=timeGradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Engineer👩🏻‍💻&descSize=42&descAlign=64&descAlignY=55" />
 
 <div>
-  <h2>Skills</h2>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black">
+  <h2>Tech Stacks</h2>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black">
  </div>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=200" />
