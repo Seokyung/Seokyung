@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyung&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Seokyung&show_icons=true">
  </div>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=200" />
