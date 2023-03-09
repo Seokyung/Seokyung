@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=timeGradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Developer👩🏻‍💻&descSize=42&descAlign=63&descAlignY=55" />
   
   <div>
-    <div width="100">
+    <div width="100" height="1000">
       <p align="left">Tech Stacks</p>
       <p align="right">Tools</p>
       <img align="left" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
