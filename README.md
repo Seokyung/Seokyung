@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black">
   
+  <h2>Blog</h2>
+  <a href="https://catrulestheworld.tistory.com/" target="_blank">I Love Cats</a>
+  
   <h2>Baekjoon</h2>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xuejd17)](https://solved.ac/xuejd17)
