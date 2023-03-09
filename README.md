@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=timeGradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Developer👩🏻‍💻&descSize=42&descAlign=63&descAlignY=55" />
-
 <div align=center>
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=timeGradient&height=270&text=Welcome!🙌&fontSize=60&fontAlign=75&fontAlignY=33&desc=I'm%20Seokyung,%20FE%20Developer👩🏻‍💻&descSize=42&descAlign=63&descAlignY=55" />
   <table border=none>
     <tr>
       <td>
@@ -43,9 +42,8 @@
       </td>
     </tr>
   </table>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=200" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=200" />
 
 <!--
 **Seokyung/Seokyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
