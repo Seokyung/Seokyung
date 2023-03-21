@@ -30,7 +30,7 @@
   <div>
     <h3>🌿 Baekjoon 🌿</h3>
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=xuejd17">
-    \\<!--
+    <!--
     &nbsp;&nbsp;
     <img src="http://mazandi.herokuapp.com/api?handle=xuejd17&theme=dark">
     -->
